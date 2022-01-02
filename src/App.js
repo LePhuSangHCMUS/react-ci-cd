@@ -5,7 +5,10 @@ function App() {
     <div className="App">
      React CI CD Test/Deploy
 
-     TEST ONCE
+     <div>TEST FIRST</div>
+     <div>TEST SECOND</div>
+
+     TEST 
     </div>
   );
 }
