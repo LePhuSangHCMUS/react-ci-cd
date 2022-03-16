@@ -9,11 +9,8 @@ function App() {
      <div>TEST SECOND</div>
      <div>TEST TUANCV</div>
      <div>TEST TUANSANG SUACV</div>
-     <div>TEST TUANSANG SUACV1</div>
-     <div>TEST TUANSANG SUACV2</div>
-     tuan edit
-AMEND
-    </div>
+     CCC
+Edit A    </div>
   );
 }
 
